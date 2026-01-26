@@ -1,0 +1,8 @@
+/home/ubuntu/petsafe_qr/backend/src/test/java/com/petsafe/qr/repository/UserRepositoryTest.java
+/home/ubuntu/petsafe_qr/backend/src/test/java/com/petsafe/qr/controller/PetControllerTest.java
+/home/ubuntu/petsafe_qr/backend/src/test/java/com/petsafe/qr/controller/PublicControllerTest.java
+/home/ubuntu/petsafe_qr/backend/src/test/java/com/petsafe/qr/repository/PetRepositoryTest.java
+/home/ubuntu/petsafe_qr/backend/src/test/java/com/petsafe/qr/service/PetServiceTest.java
+/home/ubuntu/petsafe_qr/backend/src/test/java/com/petsafe/qr/security/JwtTokenProviderTest.java
+/home/ubuntu/petsafe_qr/backend/src/test/java/com/petsafe/qr/controller/AuthControllerTest.java
+/home/ubuntu/petsafe_qr/backend/src/test/java/com/petsafe/qr/service/AuthServiceTest.java

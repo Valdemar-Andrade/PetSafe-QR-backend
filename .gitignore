@@ -1,0 +1,11 @@
+.idea
+uploads
+*.log
+*.tmp
+.DS_Store
+node_modules
+dist
+.env
+.vscode
+*.bak
+*.swp
