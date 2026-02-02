@@ -459,13 +459,8 @@ Os arquivos estáticos serão gerados em `build/`
 - ✅ **Design responsivo (mobile-first)**
 - ✅ **Separação de responsabilidades**
 
-## 🤝 Contribuições
-
-Este é um projeto de portfólio. Sugestões e melhorias são bem-vindas!
-
-## 📄 Licença
-
-MIT License - sinta-se livre para usar este projeto para aprendizado.
+## Projeto Relacionado
+- [PetSafe-QR-front](https://github.com/Valdemar-Andrade/PetSafe-QR-front) - PetSafe-QR-frontend
 
 ## 👤 Autor
 - GitHub: [@Valdemar-Andrade]
